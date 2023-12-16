@@ -20,8 +20,8 @@ android {
     namespace = "com.tinashe.hymnal"
 
     defaultConfig {
-        applicationId = "com.tinashe.christInSong"
-        versionCode = 3438
+        applicationId = "afr.namtas.apps.ChristInSongSocial"
+        versionCode = 1
         versionName = libs.versions.app.get()
         vectorDrawables.useSupportLibrary = true
     }
